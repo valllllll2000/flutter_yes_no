@@ -1,6 +1,6 @@
 # yes_no_app
 
-A new Flutter project.
+App developed while doing a Udemy Flutter course
 
 ## Getting Started
 
