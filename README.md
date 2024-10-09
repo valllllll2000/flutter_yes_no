@@ -1,6 +1,7 @@
 # yes_no_app
 
-App developed while doing a Udemy Flutter course
+Flutter app written during this Udemy course:
+https://fernando-herrera.com/course/flutter-cero-experto
 
 ## Getting Started
 
